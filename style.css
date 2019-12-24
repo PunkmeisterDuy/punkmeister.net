@@ -1,0 +1,54 @@
+body {
+    color: #BCF8EC;
+    font-family: 'Poppins', sans-serif;
+}
+
+.home {
+    background-color: #f1a6b2;
+}
+
+.portfolio {
+    background-color: #EF7674;
+}
+
+.about {
+    background-color: #EC5766;;
+}
+
+.contact {
+    background-color: #f71e42; 
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.widget {
+    padding-top: 25px;
+    padding-left: 25px;
+}
+
+.navbar {
+    opacity: 95%;
+    background-color: #DDFFF7;
+}
+
+.nav-link {
+    color: #f71e42;
+    font-size: 23px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-link:hover {
+    color: #93E1D8;
+}
+
+.navbar-brand {
+    font-family: 'Rock Salt', cursive;
+    color: #f71e42;
+    font-size: 30px;
+}
+
+.navbar-brand:hover {
+    color: #f71e42;
+}
