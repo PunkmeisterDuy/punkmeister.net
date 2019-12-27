@@ -1,6 +1,18 @@
 body {
-    color: #BCF8EC;
+    color: #000807;
     font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 25px;
+}
+
+.container-stuff{
+    text-align: center;
 }
 
 .home {
@@ -21,11 +33,6 @@ body {
 
 .underline {
     text-decoration: underline;
-}
-
-.widget {
-    padding-top: 25px;
-    padding-left: 25px;
 }
 
 .navbar {
