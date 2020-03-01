@@ -1,0 +1,39 @@
+body {
+    font-style: Lato;
+}
+
+.navbar-nav {
+    font-size: 30px;
+}
+
+nav {
+    background-color: #FFCAD4;
+}
+
+.nav-link {
+    font-family: Dosis;
+    color: #FF3258;
+}
+
+.nav-link:hover {
+    color: #CC2846;
+    transition: .5s;
+}
+
+
+
+.nav-logo {
+    border-radius: 50%;
+    opacity: 1;
+    transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -webkit-transition: opacity 1s ease-in-out;
+}​
+
+.nav-logo:hover {
+    border-radius: 100%;
+    opacity: .5;
+    transition: opacity .55s ease-in-out;
+    -moz-transition: opacity .55s ease-in-out;
+    -webkit-transition: opacity .55s ease-in-out;
+}
