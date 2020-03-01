@@ -53,3 +53,7 @@ img.nav-logo:hover {
     padding-top: 85px;
     margin-top: -85px;
 }
+
+#home {
+    background-image: url("/logos/logo1.png");
+}
