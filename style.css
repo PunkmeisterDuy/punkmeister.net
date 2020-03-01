@@ -2,25 +2,29 @@ body {
     font-style: Lato;
 }
 
-.navbar-nav {
-    font-size: 30px;
-}
+html {
+    scroll-behavior: smooth;
+  }
 
 nav {
     background-color: #FFCAD4;
 }
 
+.navbar-nav {
+    font-size: 30px;
+}
+
 .nav-link {
-    font-family: Dosis;
+    font-family: Lato;
     color: #FF3258;
+    font-weight: bold;
+
 }
 
 .nav-link:hover {
     color: #CC2846;
     transition: .5s;
 }
-
-
 
 .nav-logo {
     border-radius: 50%;
@@ -39,4 +43,13 @@ img.nav-logo:hover {
     transition: opacity .45s ease-in-out;
     -moz-transition: opacity .45s ease-in-out;
     -webkit-transition: opacity .45s ease-in-out;
+}
+
+.center {
+    text-align:center;
+}
+
+.anchor {
+    padding-top: 85px;
+    margin-top: -85px;
 }
